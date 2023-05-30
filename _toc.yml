@@ -1,0 +1,14 @@
+format: jb-book
+root: intro
+parts:
+  - caption: Articles en français
+    chapters:
+      - file: intro -2
+      - file: markdown
+      - file: markdown-notebooks
+  - caption: Articles en anglais
+    chapters:
+      - file: intro-eng
+      - file: markdown-en
+      - file: markdown-notebooks-en
+
